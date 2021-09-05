@@ -1,0 +1,12 @@
+.blog {
+	background-color: rgb(255, 244, 255);
+	margin-bottom: 3px;
+	padding: 4px;
+	border: 1px dashed #ff99dd;
+	border-radius: 15px;
+}
+
+button {
+	float: right;
+	border-radius: 9px;
+}

@@ -1,0 +1,11 @@
+.form {
+	background-color: rgb(252, 217, 252);
+	font-size: 12px;
+	padding: 4px;
+	border: 1px dashed #fc87d5;
+	border-radius: 15px;
+}
+
+.form button {
+	color: mediumblue;
+}
