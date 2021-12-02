@@ -1,3 +1,3 @@
-# FullStackOpen2021 osa 4
-Kurssin tehtävien vastauksia.
-Luonnollisesti: älä kopioi vastauksia!
+# FullStackOpen2021 part 4 answers
+
+Naturally, do not copy these answers.
